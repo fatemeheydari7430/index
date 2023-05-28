@@ -1,0 +1,24 @@
+@import '_1.contact.css';
+@import '_2.nav.css';
+@import '_3.header.css';
+@import '_4.course.css';
+@import '_5.aboutus.css';
+@import '_6.teacher.css';
+@import '_7.stat.css';
+@import '_8.topic.css';
+@import '_9.faq.css';
+
+
+@font-face{
+    font-family:vazir-medium ;
+    src: url("../fonts/Vazir-Medium.eot") format("eot"),
+    url("../fonts/Vazir-Medium.woff") format("woff"),
+    url("../fonts/Vazir-Medium.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  * , body {
+    font-family: vazir-medium;
+  }
+

@@ -1,0 +1,35 @@
+.about-us-left-side{
+    background-color: #fbf9f9;
+    padding: 60px;
+}
+.about-us-left-side h4{
+    border-bottom: 1px solid #c2c0c0;
+    padding-bottom: 18px;
+    font-size: 20px;
+    color: #646060;
+}
+.about-us-left-side p{
+    padding: 26px;
+    font-size: 17px;
+    line-height: 32px;
+    color: #6b6666;
+}
+.about-us-left-side a{
+    background-color: orange;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: #fff;
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+    transition: .5s ease-in;
+}
+.about-us-left-side a:hover{
+     border-radius: 0px 15px 0px 15px;
+}
+
+@media screen and (max-width:992px){
+    .about-us-right-side{
+        display: none;
+    }
+}

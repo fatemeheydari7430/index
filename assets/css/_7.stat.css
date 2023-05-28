@@ -1,0 +1,21 @@
+/* <!-- start stat section styles --> */
+.stat-section-wrapper{
+    background-color: #ffc412;
+    height: 250px;
+}
+.stat-section-wrapper img{
+    margin-top: 25px;
+    width: 65px;
+}
+.stat-section-wrapper .count{
+    color: #fff;
+    font-size: 26px;
+    margin: 30px;
+}
+.stat-section-wrapper .count-title{
+    font-size: 18px;
+}
+
+
+
+/* <!-- end stat section styles --> */
